@@ -1,5 +1,5 @@
 # Spaceship-Fighter
 
-use arrow keys to navigate
+Use arrow keys to navigate
 
-press escape key or close the window to exit the game
+Press escape key or close the window to exit the game
